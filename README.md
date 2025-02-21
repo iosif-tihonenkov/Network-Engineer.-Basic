@@ -1,4 +1,4 @@
 # Домашняя работа №1
 ## Часть 1
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/iosif-tihonenkov/Network-Engineer.-Basic/blob/main/jpg/new.jpg)
