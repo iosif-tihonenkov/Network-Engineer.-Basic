@@ -22,6 +22,7 @@
 - Коммутатор Cisco 2960;
 
 С соединил их при помощи витой пары и консольного кабеля, согласно схеме (см. ниже):
+![](https://github.com/iosif-tihonenkov/Network-Engineer.-Basic/blob/main/lab01/lab01_shema01.jpg)
 
 
 
