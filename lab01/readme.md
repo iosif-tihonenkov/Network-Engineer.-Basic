@@ -24,7 +24,7 @@
 *а) Подсоедините консольный кабель, как показано в топологии. На данном этапе не подключайте каель Ethernet компьютера PC-A*
 
 **Моя реализация на скриншоте:**
-![image](https://github.com/user-attachments/assets/45168ebb-6f65-4e58-9e9e-8cfb63a5a33f)
+![](https://github.com/iosif-tihonenkov/Network-Engineer.-Basic/blob/main/lab01/jpg/shema01.jpg)
 
 
 
