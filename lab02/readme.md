@@ -19,4 +19,8 @@
 #### Настройка
 Далее провел настройку по аналогии с первой лабой для обоих коммутаторов и PC  - https://github.com/iosif-tihonenkov/Network-Engineer.-Basic/tree/main/lab01
 
+Как видно - все работает. С PC1 можно достать до SW1: 
+
+![image](https://github.com/user-attachments/assets/5604361d-bc4d-44d3-bff2-d212f04a9da3)
+
 
